@@ -1,4 +1,4 @@
 datasciencecourse
 =================
 
-repo for data science
+repo for data science course
